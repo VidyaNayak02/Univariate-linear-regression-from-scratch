@@ -159,7 +159,6 @@ The handwritten derivation covers:
 ├── README.md
 ├── Linear_Regression_from_scratch_using_normal_equation.ipynb
 ├── Univariate_Linear_Regression_using_standard_library.ipynb
-├── auto-mpg.csv
 ├── requirements.txt
 ├── images/
 └── Derivation/
