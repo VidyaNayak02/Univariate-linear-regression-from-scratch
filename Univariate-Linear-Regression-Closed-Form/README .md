@@ -108,7 +108,7 @@ $$\widehat{\text{mpg}} = 46.78 - 0.00781 \times \text{weight}$$
 
 **Weight vs mpg with the fitted line**
 
-![Weight vs mpg with fitted line](images/1_weight_vs_mpg.png)
+![Weight vs mpg with fitted line](images/1_weights_vs_mpg.png)
 
 **Residuals vs predictions (test set)**: a random cloud around zero means the straight line captures the main trend.
 
@@ -132,9 +132,7 @@ $$\widehat{\text{mpg}} = 46.78 - 0.00781 \times \text{weight}$$
 
 ![Library residuals](images/lib_2_residuals.png)
 
-**Distribution of residuals**
 
-![Library residual histogram](images/lib_3_residual_hist.png)
 
 ---
 
