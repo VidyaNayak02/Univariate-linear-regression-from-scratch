@@ -7,8 +7,6 @@ Predict a car's fuel efficiency (**mpg**) from its **weight**, using the closed-
 
 **Result:** both give exactly the same line, `mpg = 46.78 − 0.00781 × weight`, with a test R² of 0.723.
 
-**Contents:** [The idea](#the-idea) · [Dataset](#dataset) · [Notebooks](#notebooks) · [Results](#results) · [Plots](#plots) · [Derivation](#derivation) · [How to run](#how-to-run) · [Takeaways](#key-takeaways) · [Limitations](#limitations)
-
 ---
 
 ## The idea
