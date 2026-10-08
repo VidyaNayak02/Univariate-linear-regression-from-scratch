@@ -197,11 +197,10 @@ Open either notebook and choose **Kernel → Restart & Run All**. Keep `auto-mpg
 ---
 
 ---
-> **Note on efficiency:** the hand-written transpose, matrix multiplication and inverse are
-> not as efficient as NumPy's optimised routines (`@`, `np.linalg.inv`). They use plain Python
-> loops, which are much slower, especially on large matrices. They are implemented here only to
-> understand how these operations work. For real projects, use NumPy or scikit-learn.
-
+ **Note on efficiency:** the hand-written transpose, matrix multiplication and inverse are
+ not as efficient as NumPy's optimised routines (`@`, `np.linalg.inv`). They use plain Python
+ loops, which are much slower, especially on large matrices. They are implemented here only to
+ understand how these operations work. For real projects, use NumPy or scikit-learn.
 
 ---
 ## Credits and licence
